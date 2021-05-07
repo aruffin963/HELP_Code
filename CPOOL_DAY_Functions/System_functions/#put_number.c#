@@ -1,0 +1,10 @@
+/*
+** EPITECH PROJECT, 2021
+** my_putnbr
+** File description:
+** display digit
+*/
+
+#include <unistd.h>
+
+int my_putnbr
