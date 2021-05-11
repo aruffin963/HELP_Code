@@ -1,0 +1,17 @@
+.perso{
+    color: black;
+    width: 90em;
+}
+.right{
+    vertical-align: top;
+    float: left;
+    width: 25em;
+    height: 68em;
+    background-color: cornflowerblue;
+}
+.left{
+    vertical-align: top;
+    float: right;
+    width: 64em;
+    background-color: darkkhaki;
+}
